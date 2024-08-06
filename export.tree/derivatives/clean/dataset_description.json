@@ -1,0 +1,7 @@
+{
+    "Name": "clean",
+    "PipelineDescription": {
+        "Name": "clean"
+    },
+    "BIDSVersion": "1.7.0"
+}
