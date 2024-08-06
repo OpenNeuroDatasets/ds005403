@@ -1,0 +1,201 @@
+onset	duration	trial_type	trial	delay	sentence	detected_delay
+35.854	5.8612	baseline	1	0.004	The slush lay deep along the street.	1
+48.6041	4.1402	baseline	2	0.004	A Tusk is used to make costly gifts.	0
+57.7242	3.6579	baseline	3	0.004	A pound of sugar costs more than eggs.	0
+68.3212	3.5623	baseline	4	0.004	The term ended in late june that year.	0
+79.4546	3.5221	baseline	5	0.004	The fin was sharp and cut the clear water.	0
+88.6047	3.2818	baseline	6	0.004	The bill was paid every third week.	0
+96.6382	2.9104	baseline	7	0.004	Ten pins were set in order.	0
+104.6217	3.3648	baseline	8	0.004	Bail the boat to stop it from sinking.	0
+112.8052	2.9473	baseline	9	0.004	The play seems dull and quite stupid.	0
+125.322	3.2512	baseline	10	0.004	A wisp of cloud hung in the blue air.	0
+135.5388	3.9757	baseline	11	0.004	The pennant waved when the wind blew.	1
+143.9889	3.4196	baseline	12	0.004	Leaves turn brown and yellow in the fall.	0
+151.5891	3.0016	baseline	13	0.004	He ordered peach pie with ice cream.	0
+157.7058	3.4832	baseline	14	0.004	A lame back kept his score low.	0
+167.8393	3.3072	baseline	15	0.004	Weave the carpet on the right hand side.	0
+174.1228	3.5821	baseline	16	0.004	Split the log with a quick, sharp blow.	0
+181.2729	3.2942	baseline	17	0.004	We find joy in the simplest things.	0
+192.6063	4.5577	baseline	18	0.004	Hemp is a weed found in parts of the tropics.	0
+208.7066	3.2057	baseline	19	0.004	The bark of the pine tree was shiny and dark.	0
+216.4233	3.3749	baseline	20	0.004	Burn peat after the logs give out.	0
+224.5735	4.1186	random1	1	0.091	Cheap clothes are flashy but don't last.	1
+232.207	3.9232	random1	2	0.041	A strong bid may scare your partner stiff.	0
+239.5238	4.7563	random1	3	0.251	A thing of small note can cause despair.	1
+251.2573	3.3962	random1	4	0.07	Peep under the tent and see the clowns.	0
+257.1406	4.4232	random1	5	0.113	Hurdle the pit with the aid of a long pole.	1
+273.1743	4.6334	random1	6	0.092	A thick coat of black paint covered all.	1
+282.8082	4.645	random1	7	0.213	Flood the mails with requests for this book.	1
+293.8079	4.5707	random1	8	0.14	The leaf drifts along with a slow spin.	0
+301.1247	6.2675	random1	9	0.139	Even a just cause needs power to win.	1
+325.4084	4.874	random1	10	0.085	The pencil was cut to be sharp at both ends.	1
+335.1585	2.8261	random1	11	0.066	Dull stories make her laugh.	0
+341.0419	4.1088	random1	12	0.186	Light maple makes for a swell room.	1
+348.6754	3.8495	random1	13	0.059	Get the trust fund to the bank early.	1
+355.2928	4.4782	random1	14	0.108	A stiff cord will do to fasten your shoe.	1
+364.6756	4.893	random1	15	0.156	The cloud moved in a stately way and was gone.	0
+373.9758	4.6705	random1	16	0.174	Choose between the high road and the low.	1
+382.4425	4.6257	random1	17	0.101	Stop whistling and watch the boys march.	1
+390.5427	4.8754	random1	18	0.17	Jerk the cord, and out tumbles the gold.	0
+416.3764	3.6915	random1	19	0.151	Slide the tray across the glass top.	0
+423.1765	3.1298	random1	20	0.044	Set the piece here and say nothing.	0
+429.56	4.0644	random1	21	0.084	The rise to fame of a person takes luck.	0
+436.11	4.3128	random1	22	0.089	Time brings us many changes.	1
+453.727	4.3634	random1	23	0.229	The purple tie was ten years old.	1
+464.8104	3.7733	random1	24	0.09	The quick fox jumped on the sleeping cat.	0
+471.3606	4.2854	random1	25	0.128	The nozzle of the fire hose was bright brass.	1
+478.7774	4.4346	random1	26	0.249	Screw the round cap on as tight as needed.	1
+486.8942	5.2516	random1	27	0.227	The store walls were lined with colored frocks.	1
+496.4943	3.0496	random1	28	0.004	Paper is scarce, so write with much care.	0
+504.4277	4.8258	random1	29	0.243	The peace league met to discuss their plans.	1
+516.8279	4.3586	random1	30	0.167	Men think and plan and sometimes act.	1
+544.2617	4.4298	random1	31	0.169	The three story house was built of stone.	1
+551.9617	4.8638	random1	32	0.126	In the rear of the ground floor was a large passage.	1
+563.1289	3.4302	random1	33	0.145	The way to save money is not to spend much.	0
+570.9621	4.6268	random1	34	0.192	A quart of milk is water for the most part.	1
+595.7958	5.0747	random1	35	0.228	They told wild tales to frighten him.	1
+602.9459	3.3393	random1	36	0.03	He offered proof in the form of a large chart.	0
+609.096	3.3076	random1	37	0.046	Crack the walnut with your sharp side teeth.	0
+615.0295	3.4925	random1	38	0.062	The odor of spring makes young hearts jump.	0
+620.7295	3.7751	random1	39	0.108	Shut the hatch before the waves push it in.	0
+627.2129	3.6421	random1	40	0.205	Send the stuff in a thick paper bag.	1
+632.5963	3.6972	random1	41	0.08	The work of the tailor is seen on each side.	0
+640.4465	4.421	random1	42	0.235	Their eyelids droop for want of sleep.	0
+652.1633	2.7415	random1	43	0.027	Take a chance and win a china doll.	1
+657.1633	2.9803	random1	44	0.118	We like to see clear weather.	0
+663.6968	3.8609	random1	45	0.138	A force equal to that would move the earth.	0
+669.8969	4.3872	random1	46	0.241	There are many ways to do these things.	1
+680.4304	3.5072	random1	47	0.158	Tuck the sheet under the edge of the mat.	0
+686.5471	5.4364	random1	48	0.156	A man in a blue sweater sat at the desk.	1
+709.5642	4.3739	random1	49	0.15	Oats are a food eaten by horse and man.	1
+724.4811	4.0533	random1	50	0.109	A sip of tea revives his tired friend.	0
+729.9818	3.8473	adaption	1	0.204	Bring your best compass to the third class.	1
+736.4312	4.6761	adaption	2	0.204	They could laugh although they were sad.	0
+752.6815	4.7257	adaption	3	0.204	Sell your gift to a buyer at a good gain.	1
+766.0984	4.7773	adaption	4	0.204	The fruit of a fig tree is apple shaped.	1
+774.7818	4.5558	adaption	5	0.204	Where were they when the noise started.	1
+782.3819	4.2259	adaption	6	0.204	The petals fall with the next puff of wind.	0
+788.7487	4.6014	adaption	7	0.204	Corn cobs can be used to kindle a fire.	1
+795.7988	3.3738	adaption	8	0.204	The paper box is full of thumb tacks.	0
+801.4822	5.2405	adaption	9	0.204	Farmers came in to thresh the oat crop.	1
+810.4824	4.3183	adaption	10	0.204	The tongs lay beside the ice pail.	0
+820.0325	4.2298	adaption	11	0.204	There is a lag between thought and act.	1
+833.9495	4.7972	adaption	12	0.204	The sand drifts over the sills of the old house.	0
+843.3162	5.0121	adaption	13	0.204	A cold dip restores health and zest.	0
+850.283	4.9715	adaption	14	0.204	The point of the steel pen was bent and twisted.	1
+857.1331	4.2479	adaption	15	0.204	Fasten two pins on each side.	0
+863.2664	2.7856	adaption	16	0.204	Once we stood beside the shore.	0
+868.1666	6.5231	adaption	17	0.204	A chink in the wall allowed a draft to blow.	1
+895.5003	6.7505	adaption	18	0.204	He takes the oath of office each March.	1
+911.9339	4.2334	adaption	19	0.204	The news struck doubt into restless minds.	0
+918.934	4.2156	adaption	20	0.204	Nudge gently but wake her now.	1
+924.4508	5.617	adaption	21	0.204	Lush ferns grow on the lofty rocks.	1
+931.2176	4.6568	adaption	22	0.204	A plea for funds seems to come again.	0
+938.7843	5.048	adaption	23	0.204	When the frost has come it is time for turkey.	0
+946.385	5.9413	adaption	24	0.204	There is a strong chance it will happen once more.	1
+956.4679	4.1682	adaption	25	0.204	Greet the new guests and leave quickly.	0
+962.8346	4.0559	adaption	26	0.204	A thin stripe runs down the middle.	0
+969.7014	4.8912	adaption	27	0.204	Sweet words work better than fierce.	1
+976.4516	5.9391	adaption	28	0.204	He lent his coat to the tall gaunt stranger.	1
+985.3683	5.1804	adaption	29	0.204	The duke left the park in a silver coach.	0
+995.5852	5.6727	adaption	30	0.204	A six comes up more often than a ten.	0
+1004.4019	5.8458	adaption	31	0.204	Prod the old mule with a crooked stick.	1
+1012.8687	4.7691	adaption	32	0.204	The child crawled into the dense grass.	0
+1021.5522	4.5315	adaption	33	0.204	She was waiting at my front lawn.	1
+1027.6857	5.8362	adaption	34	0.204	Bribes fail where honest men work.	1
+1035.2191	6.4527	adaption	35	0.204	A round hole was drilled through the thin board.	1
+1062.7029	4.8424	adaption	36	0.204	Trample the spark, else the flames will spread.	0
+1070.2696	5.0977	adaption	37	0.204	A vent near the edge brought in fresh air.	1
+1078.0364	5.409	adaption	38	0.204	Footprints showed the path he took up the beach.	1
+1087.3032	6.4355	adaption	39	0.204	The hilt of the sword was carved with fine designs.	1
+1095.5867	4.7264	adaption	40	0.204	Paint the sockets in the wall dull green.	1
+1101.8701	5.9211	adaption	41	0.204	A lathe cuts and trims any wood.	0
+1114.0036	5.4487	adaption	42	0.204	It's a dense crowd in two distinct ways.	1
+1121.7204	5.37	adaption	43	0.204	Heave the line over the port side.	1
+1150.3875	4.312	adaption	44	0.204	His hip struck the knee of the next player.	0
+1157.3209	4.7208	adaption	45	0.204	A cone costs five cents on Mondays.	1
+1163.2376	4.8025	adaption	46	0.204	The desk was firm on the shaky floor.	1
+1169.2882	5.7102	adaption	47	0.204	Raise the sail and steer the ship northward.	1
+1177.1712	3.8496	adaption	48	0.204	It takes heat to bring out the odor.	0
+1182.4714	5.0278	adaption	49	0.204	The stale smell of old beer lingers.	0
+1192.4715	4.1934	adaption	50	0.204	Beef is scarcer than some lamb.	0
+1201.3216	4.885	adaption	51	0.204	Four hours of steady work faced us.	0
+1214.1885	4.3349	adaption	52	0.204	The box was thrown beside the parked truck.	0
+1220.1219	5.9437	adaption	53	0.204	A large size in stockings is hard to sell.	1
+1229.6387	4.9527	adaption	54	0.204	The juice of lemons makes fine punch.	0
+1239.9888	4.928	adaption	55	0.204	Rice is often served in round bowls.	1
+1249.5557	6.3743	adaption	56	0.204	The hogs were fed chopped corn and garbage.	1
+1264.2392	5.7274	adaption	57	0.204	The birch canoe slid on the smooth planks.	0
+1271.8727	4.5722	adaption	58	0.204	It's easy to tell the depth of a well.	1
+1277.8227	5.8604	adaption	59	0.204	These days a chicken leg is a rare dish.	1
+1290.573	4.7712	adaption	60	0.204	Glue the sheet to the dark blue background.	0
+1296.9231	3.7318	adaption	61	0.204	Fairy tales should be fun to write.	0
+1302.0065	4.6949	adaption	62	0.204	The third act was dull and tired the players.	0
+1308.3066	4.5452	adaption	63	0.204	Acid burns holes in wool cloth.	0
+1313.99	5.5561	adaption	64	0.204	Eight miles of woodland burned to waste.	1
+1321.2568	4.1039	adaption	65	0.204	We admire and love a good cook.	1
+1326.7735	4.7537	adaption	66	0.204	A young child should not suffer fright.	0
+1332.8236	4.2462	adaption	67	0.204	There the flood mark is ten inches.	0
+1338.7404	5.7355	adaption	68	0.204	He carved a head from the round block of marble.	1
+1354.9573	4.3629	adaption	69	0.204	She has a smart way of wearing clothes.	0
+1361.0908	5.8835	adaption	70	0.204	Add the column and put the sum here.	1
+1368.8408	5.0038	adaption	71	0.204	Pluck the bright rose without leaves.	1
+1399.0413	4.0439	adaption	72	0.204	He said the same phrase thirty times.	1
+1404.3747	5.029	adaption	73	0.204	Clothes and lodging are free to new men.	1
+1410.7582	3.3323	adaption	74	0.204	Two plus seven is less than ten.	0
+1415.3749	4.4662	adaption	75	0.204	The glow deepened in the eyes of the sweet girl.	1
+1421.4083	3.8793	adaption	76	0.204	Bring your problems to the wise chief.	0
+1428.0251	4.0368	adaption	77	0.204	We frown when events take a bad turn.	0
+1433.9752	5.317	adaption	78	0.204	Write a fond note to the friend you cherish.	0
+1442.2752	4.919	adaption	79	0.204	A cramp is no small danger on a swim.	1
+1449.642	8.3335	adaption	80	0.204	Port is a strong wine with a smoky taste.	1
+1460.6589	6.6502	random2	1	0.206	The loss of the cruiser was a blow to the fleet.	1
+1495.0928	3.9444	random2	2	0.181	The facts don't always show who is right.	0
+1500.2595	4.2323	random2	3	0.135	The sink is the thing in which we pile dishes.	0
+1506.0929	3.4537	random2	4	0.208	Post no bills on this office wall.	1
+1510.8597	3.8776	random2	5	0.054	A whiff of it will cure the most stubborn cold.	0
+1516.2932	3.6428	random2	6	0.078	Plead with the lawyer to drop the lost cause.	0
+1521.5098	3.025	random2	7	0.014	Calves thrive on tender spring grass.	0
+1526.1932	2.7245	random2	8	0.007	The goose was brought straight from the old market.	0
+1530.11	4.5742	random2	9	0.176	She flaps her cape as she parades the street.	1
+1536.0933	4.0696	random2	10	0.153	Loop the braid to the left and then over.	0
+1541.2268	2.951	random2	11	0.039	Roads are paved with sticky tar.	0
+1545.4102	3.8224	random2	12	0.132	Fake stones shine but cost little.	1
+1550.427	2.4608	random2	13	0.022	He wrote down a long list of items.	0
+1553.827	3.9634	random2	14	0.164	A siege will crack the strong defense.	1
+1559.2437	4.4413	random2	15	0.174	The sun came up to light the eastern sky.	1
+1564.7105	3.8133	random2	16	0.079	Serve the hot rum to the tired heroes.	1
+1569.7106	2.8521	random2	17	0.069	Grape juice and water mix well.	0
+1574.2439	3.2216	random2	18	0.156	Much of the story makes good sense.	0
+1578.4773	3.2831	random2	19	0.104	Smoke poured out of every crack.	1
+1582.994	2.9574	random2	20	0.034	The drip of the rain made a pleasant sound.	0
+1587.4275	2.8828	random2	21	0.034	Beat the dust from the rug onto the lawn.	0
+1591.8942	4.1027	random2	22	0.168	The boy owed his pal thirty cents.	1
+1597.6944	4.557	random2	23	0.159	Hats are worn to tea and not to dinner.	1
+1603.8945	3.6755	random2	24	0.149	Draw the chart with heavy black lines.	1
+1610.8112	3.0612	random2	25	0.04	The chap slipped into the crowd and was lost.	0
+1614.9113	3.7279	random2	26	0.117	Seed is needed to plant the spring corn.	0
+1619.878	2.3203	random2	27	0.011	The ramp led up to the wide highway.	0
+1623.4447	2.6167	random2	28	0.025	The straw nest housed five robins.	0
+1626.9781	5.0418	random2	29	0.231	Say it slowly but make it ring clear.	1
+1632.9449	4.9055	random2	30	0.206	Screen the porch with woven straw mats.	1
+1639.2449	3.6042	random2	31	0.11	The beauty of the view stunned the young boy.	1
+1643.995	6.9322	random2	32	0.246	Press the pants and sew a button on the vest.	1
+1653.9952	4.1941	random2	33	0.212	Read verse out loud for pleasure.	1
+1660.1285	4.2193	random2	34	0.108	Two blue fish swam in the tank.	1
+1665.5954	6.5984	random2	35	0.186	It snowed, rained, and hailed the same morning.	1
+1673.0454	5.1309	random2	36	0.192	The fish twisted and turned on the bent hook.	1
+1696.2291	4.6775	random2	37	0.169	Her purse was full of useless trash.	1
+1702.4626	3.8827	random2	38	0.104	The swan dive was far short of perfect.	0
+1707.5627	5.085	random2	39	0.163	The small pup gnawed a hole in the sock.	1
+1715.2963	3.9577	random2	40	0.103	The colt reared and threw the tall rider.	1
+1721.2796	3.653	random2	41	0.127	The doorknob was made of bright clean brass.	1
+1727.2629	3.7642	random2	42	0.228	The wreck occurred by the bank on Main Street.	1
+1732.5964	4.1732	random2	43	0.142	The cement had dried when he moved it.	1
+1738.9798	3.9403	random2	44	0.114	It is hard to erase blue or red ink.	0
+1744.2465	2.9685	random2	45	0.152	Live wires should be kept covered.	0
+1748.0967	7.3562	random2	46	0.236	The large house had hot water taps.	1
+1762.3134	4.6247	random2	47	0.196	Write at once or you may forget it.	1
+1769.4802	3.9523	random2	48	0.217	Do that with a wooden stick.	1
+1775.9804	4.1303	random2	49	0.037	The loss of the second ship was hard to take.	0
+1794.2639	2.4347	random2	50	0.005	The fly made its way along the wall.	0
