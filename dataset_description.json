@@ -11,5 +11,8 @@
     "Funding": [
         "NSF 1835181"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "EthicsApprovals": [
+        "University of Chicago Social and Behavioral Sciences IRB21-1402"
+    ]
 }
